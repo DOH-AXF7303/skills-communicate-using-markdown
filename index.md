@@ -9,3 +9,12 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+
+- [x] Check this first 
+- [x] Check this second 
+- [ ] Consider checking this one 
+
+
+
+
