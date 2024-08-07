@@ -13,8 +13,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 - [x] Check this first 
 - [x] Check this second 
-- [ ] Consider checking this one 
+- [x] Consider checking this one 
 
 
 
-
+New line! Checked the 3rd box. 
