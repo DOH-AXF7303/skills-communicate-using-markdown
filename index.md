@@ -15,6 +15,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Check this second 
 - [x] Consider checking this one 
 
+![Headshot1](https://github.com/user-attachments/assets/d965ad1a-3760-45a7-b231-15682d8d92b6)
 
 
 New line! Checked the 3rd box. 
